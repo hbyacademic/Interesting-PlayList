@@ -1,6 +1,7 @@
 # Interesting-PlayList
 
-👉 INTS_001: https://www.youtube.com/watch?v=0BjPu_OtKTI&index=17&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq
+👉 INTS_001: Implement the LZW lossless compression technique
+https://www.youtube.com/watch?v=0BjPu_OtKTI&index=17&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq
 
 👉 INTS_002: https://www.youtube.com/watch?v=BKj7rVxjvw0&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq&index=16
 
