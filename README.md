@@ -1,10 +1,8 @@
 # Interesting-PlayList
 
-👉 INTS_001: 
-
-Implement the LZW lossless compression technique
-
-https://www.youtube.com/watch?v=0BjPu_OtKTI&index=17&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq
+👉 INTS_001: <br/> 
+Implement the LZW lossless compression technique <br/>
+https://www.youtube.com/watch?v=0BjPu_OtKTI&index=17&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/>
 
 👉 INTS_002: Find the difference between each two consecutive frames in one video (Matlab)
 
