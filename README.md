@@ -1,7 +1,7 @@
 # Interesting-PlayList
 
 👉 INTS_001: <br/> 
-Idea inspiration: learn from class
+Idea inspiration: learn from class <br/>
 Implement the LZW lossless compression technique (C++) <br/>
 https://www.youtube.com/watch?v=0BjPu_OtKTI&index=17&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/>
 
@@ -16,12 +16,12 @@ Sketch the graph of function: n! by applying gamma function (Matlab) <br/>
 https://www.youtube.com/watch?v=eGkWRWlLL38&index=15&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/>
 
 👉 INTS_004: <br/>
-Idea inspireation: Previous video "gamma" function <br/>
+Idea inspiration: Previous video "gamma" function <br/>
 Simulate the gamma correction on images (C++) <br/>
 https://www.youtube.com/watch?v=XSwlWcbwNrA&index=14&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/>
 
 👉 INTS_005: <br/>
-Idea inspireation: Brief introduction of the barcode by Taiwanese youtuber 啾啾鞋 <br/>
+Idea inspiration: Brief introduction of the barcode by Taiwanese youtuber 啾啾鞋 <br/>
 Generate a (EAN-13) barcode in term of the input number sequence (C++) <br/>
 https://www.youtube.com/watch?v=T0aN8aMAy-U&index=13&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/>
 
@@ -88,5 +88,6 @@ https://www.youtube.com/watch?v=n9Cqwepvxsc&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3
 👉 INTS_018: </br>
 Idea inspiration: when I am watching the movie ... </br>
 Sketch the batman graph by some mathmetical equations (Processing) <br/>
+https://www.youtube.com/watch?v=WE7xl1QPpck&index=18&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/> 
 
 
