@@ -66,12 +66,12 @@ Design a program to count the number of word in term of the input text file (Pro
 https://www.youtube.com/watch?v=d3OOywXlHok&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq&index=5 <br/>
 
 👉 INTS_014: <br/>
-Idea inspiration: when I use the buildin function "bwlabel" in Matlab <br/>
+Idea inspiration: when I use the buildin function "bwlabel" in Matlab ... <br/>
 Design a program to count the number of objects in one image (C++) <br/>
 https://www.youtube.com/watch?v=72fH9b9bk0g&index=4&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/>
 
 👉 INTS_015: <br/>
-Idea inspiration: learn on class <br/>
+Idea inspiration: learn from class <br/>
 Design a program to slice an image into eight bit-planes (C++) <br/>
 https://www.youtube.com/watch?v=JOpmTa4Lojs&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq&index=3 <br/>
 
