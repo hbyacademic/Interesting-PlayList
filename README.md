@@ -26,7 +26,7 @@ Generate a (EAN-13) barcode in term of the input number sequence (C++) <br/>
 https://www.youtube.com/watch?v=T0aN8aMAy-U&index=13&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/>
 
 👉 INTS_006: <br/>
-Idea inspiration: puzzle
+Idea inspiration: puzzle <br/>
 Simulate A* path finding on 3x3 sliding puzzle (C++) <br/>
 https://www.youtube.com/watch?v=_9vUOs8vYcw&index=12&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/>
 
@@ -42,34 +42,51 @@ https://www.youtube.com/watch?v=4Az1aCCcUvA&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3
 
 👉 INTS_009: <br/>
 Idea inspiration: INTS_005 <br/>
-Introduce how to read the QR code by hands <br/>
+Introduce how to read the QR code by hands (C++) <br/>
 https://www.youtube.com/watch?v=n_FV8_bLp2Q&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq&index=9 <br/>
 
 👉 INTS_010: <br/>
 Idea inspiration: INTS_006, is any order of the puzzle can be solved? <- interesting problem <br/> 
+Design a program to check if the current puzzle is solvable (C++) <br/>
 https://www.youtube.com/watch?v=0pTciAl6Wc4&index=8&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/>
 
 👉 INTS_011: <br/>
 Idea inspiration: <br/>
-Simulate the pixelization effect on images <br/>
+Simulate the pixelization effect on images (C++) <br/>
 https://www.youtube.com/watch?v=wUKVqNVKzvQ&index=7&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/>
 
 👉 INTS_012: <br/>
 Idea inspiration: the rotate bottons in MSpaint <br/>
-Design a program to roate an image any degree <br/>
+Design a program to roate an image any degree (C++) <br/>
 https://www.youtube.com/watch?v=0OLQxQe-OAY&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq&index=6 <br/>
 
 👉 INTS_013: <br/>
-Idea inspration: youtuber Coding Train <br/>
-Design a program to count the number of word in term of the input text file <br/>
+Idea inspration: youtuber The Coding Train <br/>
+Design a program to count the number of word in term of the input text file (Processing) <br/>
 https://www.youtube.com/watch?v=d3OOywXlHok&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq&index=5 <br/>
 
-👉 INTS_014: https://www.youtube.com/watch?v=72fH9b9bk0g&index=4&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq
+👉 INTS_014: <br/>
+Idea inspiration: when I use the buildin function "bwlabel" in Matlab <br/>
+Design a program to count the number of objects in one image (C++) <br/>
+https://www.youtube.com/watch?v=72fH9b9bk0g&index=4&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/>
 
-👉 INTS_015: https://www.youtube.com/watch?v=JOpmTa4Lojs&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq&index=3
+👉 INTS_015: <br/>
+Idea inspiration: learn on class <br/>
+Design a program to slice an image into eight bit-planes (C++) <br/>
+https://www.youtube.com/watch?v=JOpmTa4Lojs&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq&index=3 <br/>
 
-👉 INTS_016: https://www.youtube.com/watch?v=D6O1TqEDwoA&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq&index=2
+👉 INTS_016: </br>
+Idea inspiration: youtuber The Coding Train </br>
+Design a program to simulate an electronic clock (Processing) <br/>
+https://www.youtube.com/watch?v=D6O1TqEDwoA&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq&index=2 </br>
 
-👉 INTS_017: https://www.youtube.com/watch?v=n9Cqwepvxsc&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq
+👉 INTS_017: </br>
+Idea inspiration: youtuber The Coding Train <br/>
+Design a program to simulate the chaos games (Processing) <br/>
+https://www.youtube.com/watch?v=n9Cqwepvxsc&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq </br>
 
-👉 INTS_018: 
+👉 INTS_018: </br>
+Idea inspiration: when I am watching the movie ... </br>
+Sketch the batman graph by some mathmetical equations (Processing) <br/>
+
+
