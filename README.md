@@ -1,16 +1,24 @@
 # Interesting-PlayList
 
 👉 INTS_001: <br/> 
-Implement the LZW lossless compression technique <br/>
+Idea inspiration: learn from class
+Implement the LZW lossless compression technique (C++) <br/>
 https://www.youtube.com/watch?v=0BjPu_OtKTI&index=17&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/>
 
-👉 INTS_002: Find the difference between each two consecutive frames in one video (Matlab)
+👉 INTS_002: <br/>
+Idea inspiration: PUBG game <br/>
+Find the difference between each two consecutive frames in one video (Matlab) <br/>
+https://www.youtube.com/watch?v=BKj7rVxjvw0&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq&index=16 <br/>
 
-https://www.youtube.com/watch?v=BKj7rVxjvw0&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq&index=16
+👉 INTS_003: <br/>
+Idea inspiration: 1=0? means "1=0" ? or 1="0!" <- interesting <br/>
+Sketch the graph of function: n! by applying gamma function <br/>
+https://www.youtube.com/watch?v=eGkWRWlLL38&index=15&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/>
 
-👉 INTS_003: https://www.youtube.com/watch?v=eGkWRWlLL38&index=15&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq
-
-👉 INTS_004: https://www.youtube.com/watch?v=XSwlWcbwNrA&index=14&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq
+👉 INTS_004: <br/>
+Idea inspireation: Previous video "gamma" function <br/>
+Simulate the gamma correction on image <br/>
+https://www.youtube.com/watch?v=XSwlWcbwNrA&index=14&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq <br/>
 
 👉 INTS_005: https://www.youtube.com/watch?v=T0aN8aMAy-U&index=13&list=PLrJ7yjuOYajyfx_Oux9tsrQrH4R9C3Wqq
 
