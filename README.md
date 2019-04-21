@@ -92,7 +92,7 @@ https://www.youtube.com/watch?v=WE7xl1QPpck&index=18&list=PLrJ7yjuOYajyfx_Oux9ts
 
 👉 INTS_019: </br>
 Idea inspiration: learn from class </br>
-Design to show the generation of Sierpinski carpet patterns (Processing) <br/>
+Design a program to show the generation of Sierpinski carpet patterns (Processing) <br/>
 https://www.youtube.com/watch?v=5pHtBm0BVOk <br/>
 
 👉 INTS_020: </br>
