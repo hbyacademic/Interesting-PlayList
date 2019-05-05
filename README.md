@@ -100,4 +100,9 @@ Idea inspiration: </br>
 Apply slicing rearrangment on images (Processing) <br/>
 https://www.youtube.com/watch?v=x_kDshdT5H0 <br/>
 
+👉 INTS_021: </br>
+Idea inspiration: </br>
+Show one image in the form of ASCII art (Processing) <br/>
+https://www.youtube.com/watch?v=YJ9HqHbICC8&t <br/>
+
 
