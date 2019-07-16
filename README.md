@@ -105,4 +105,14 @@ Idea inspiration: </br>
 Show one image in the form of ASCII art (Processing) <br/>
 https://www.youtube.com/watch?v=YJ9HqHbICC8&t <br/>
 
+👉 INTS_022: </br>
+Idea inspiration: </br>
+Make a simple version of the magnifier (Processing) <br/>
+https://www.youtube.com/watch?v=BcOwgtAhKCY <br/>
+
+👉 INTS_023: </br>
+Idea inspiration: </br>
+A maze generator by Eller's algorithm (Processing) <br/>
+https://www.youtube.com/watch?v=-bBuBQI9ICo <br/>
+
 
