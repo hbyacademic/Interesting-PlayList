@@ -96,12 +96,12 @@ Design a program to show the generation of Sierpinski carpet patterns (Processin
 https://www.youtube.com/watch?v=5pHtBm0BVOk <br/>
 
 👉 INTS_020: </br>
-Idea inspiration: </br>
+Idea inspiration: inspired by one life hack post on Instagram </br>
 Apply slicing rearrangment on images (Processing) <br/>
 https://www.youtube.com/watch?v=x_kDshdT5H0 <br/>
 
 👉 INTS_021: </br>
-Idea inspiration: </br>
+Idea inspiration: inspired by one life hack post on Instagram </br>
 Show one image in the form of ASCII art (Processing) <br/>
 https://www.youtube.com/watch?v=YJ9HqHbICC8&t <br/>
 
@@ -111,7 +111,7 @@ Make a simple version of the magnifier (Processing) <br/>
 https://www.youtube.com/watch?v=BcOwgtAhKCY <br/>
 
 👉 INTS_023: </br>
-Idea inspiration: </br>
+Idea inspiration: inspired by one life hack post on Instagram </br>
 A maze generator by Eller's algorithm (Processing) <br/>
 https://www.youtube.com/watch?v=-bBuBQI9ICo <br/>
 
