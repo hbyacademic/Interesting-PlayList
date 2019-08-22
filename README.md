@@ -115,4 +115,9 @@ Idea inspiration: inspired by one life hack post on Instagram </br>
 A maze generator by Eller's algorithm (Processing) <br/>
 https://www.youtube.com/watch?v=-bBuBQI9ICo <br/>
 
+👉 INTS_024: </br>
+Idea inspiration: inspired by one lesson I learned at senor high shcool  </br>
+Bean machine for distribution simulation (Processing) <br/>
+ <br/>
+
 
